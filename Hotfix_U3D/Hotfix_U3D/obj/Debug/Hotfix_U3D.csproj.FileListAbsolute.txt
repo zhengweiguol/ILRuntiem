@@ -1,0 +1,7 @@
+E:\TestWork\ILRuntiemTest\U3D\Assets\StreamingAssets\Hotfix_U3D.dll
+E:\TestWork\ILRuntiemTest\U3D\Assets\StreamingAssets\Hotfix_U3D.pdb
+E:\TestWork\ILRuntiemTest\Hotfix_U3D\Hotfix_U3D\obj\Debug\Hotfix_U3D.csproj.CoreCompileInputs.cache
+E:\TestWork\ILRuntiemTest\Hotfix_U3D\Hotfix_U3D\obj\Debug\Hotfix_U3D.dll
+E:\TestWork\ILRuntiemTest\Hotfix_U3D\Hotfix_U3D\obj\Debug\Hotfix_U3D.pdb
+E:\TestWork\ILRuntiemTest\Hotfix_U3D\Hotfix_U3D\obj\Debug\Hotfix_U3D.csproj.CopyComplete
+E:\TestWork\ILRuntiemTest\Hotfix_U3D\Hotfix_U3D\obj\Debug\Hotfix_U3D.csprojAssemblyReference.cache
